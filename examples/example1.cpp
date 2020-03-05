@@ -2,5 +2,9 @@
 
 int main(int argc, cahr** argv)
 {
-  hello_world();
+  string name;
+  cout << "Enter your name";
+  cin >> name;
+  cout << endl;
+  hello_world(name);
 }
