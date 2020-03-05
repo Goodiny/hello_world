@@ -1,13 +1,17 @@
 #include <hello_world.hpp>
 
+<<<<<<< HEAD
 # Testing
+=======
+using namespace std;
+>>>>>>> origin/master
 
 void hello_world()
 {
-  std::cout << "Hello world" << std::endl;
+  cout << "Hello world" << endl;
 }
 
 void hello_world(const string& name)
 {
-  std::cout << "Hello world from " << name << std::endl;
+  cout << "Hello world from " << name << endl;
 }
