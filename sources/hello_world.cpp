@@ -1,6 +1,10 @@
 #include <hello_world.hpp>
 
+<<<<<<< HEAD
+# Testing
+=======
 using namespace std;
+>>>>>>> origin/master
 
 void hello_world()
 {
